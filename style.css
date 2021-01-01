@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+
+#apps {
+    width: 100%;
+    height: 2000px;
+    background-color: cyan;
+}
+
+.line {
+    height: 10px;
+    width: 90px;
+    background-color: gold;
+    margin: 8px auto;
+}
+
+img {
+    transition: transform .2s;
+    height: 500px;
+    width: 300px;
+    padding: 10px
+}
+
+img:hover {
+    transform: scale(0.8);
+}
+
+#games {
+    width: 100%;
+    height: 630px;
+    background-color: coral;
+}
+
+#chatbot {
+    width: 100%;
+    height: 1000px;
+    background-color: crimson;
+}
+
+h1 {
+    color: darkgreen;
+    font-size: 40px;
+}
+#carousel1{
+    background-color: darkmagenta;
+}
